@@ -28,5 +28,6 @@ SIAKAD (Sistem Informasi Akademik) online adalah suatu Sistem Informasi Akademik
 - Login dengan menggunakan username dan password sesuai masing-masing.
 -	isi Biodata.
 - lihat khs
+
 ##Video
 https://www.youtube.com/watch?v=q796jqOianI
