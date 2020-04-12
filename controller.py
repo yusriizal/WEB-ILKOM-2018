@@ -5,7 +5,7 @@ import view
 class Guest:
     def __init__(self, root):
         self.view = view.Guest(root)
-        self.col = redis.redis-cly()["olshop"]["user"]
+        self.col = redis.redis-cly()["Siakad"]["user"]
         self.root = root
 
     def login(self):
