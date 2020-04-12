@@ -76,7 +76,7 @@ class Guest:
 
 class User:
     def __init__(self, view, model, root):
-        self.client = redis-cly.MongoClient()["Siakad"]
+        self.client = redis.redis-cly()["Siakad"]
         self.view = view
         self.model = model
         self.root = root
